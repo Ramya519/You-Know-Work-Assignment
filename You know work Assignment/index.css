@@ -1,0 +1,49 @@
+.container{
+    background-color: #f08080;
+    background-size: cover;
+}
+.icons-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.icon{
+    border-width: 4px;
+    border-style: solid;
+    height: 80px;
+    width: 80px;
+    font-weight: 400;
+    border-radius: 20px;
+    padding:5px;
+}
+.profile{
+    font-size: small;
+    font-size: large;
+}
+.vertical-line{
+    border-left: 3px solid black;
+}
+.horizontal-line{
+    border: 2px solid black;
+    width: 80%;
+    color: black;
+    font-weight: bold;
+}
+.design{
+    font-size: 0px;
+}
+.dot{
+    width:100px
+}
+.icons{
+    background:#beccbe;
+    border-width: 2px;
+    border-style: solid;
+    height: 80px;
+    width: 80px;
+    font-weight: 00;
+    border-radius: 20px;
+    border-color: black;
+    padding:5px;
+    color: DAF0F;
+}
